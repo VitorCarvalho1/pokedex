@@ -1,0 +1,17 @@
+.container {
+    .pokemon-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 350px;
+        text-align: center;
+        font-size: 1.3rem;
+        text-transform: capitalize;
+        border: 1px solid rgb(180, 176, 176);
+        border-radius: 8px;
+        font-family: 'Roboto', sans-serif;
+        h1 {
+            padding-bottom: 15px;
+        }
+    }
+}
